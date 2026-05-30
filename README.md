@@ -280,11 +280,7 @@ Client Connected Successfully ✅
 
 ---
 
-# 👨‍💻 Author
 
-Developed by **Nikita Ravindra Ugale**
-
----
 
 # ⭐ Conclusion
 
